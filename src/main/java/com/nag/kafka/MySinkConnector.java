@@ -26,7 +26,7 @@ public class MySinkConnector extends SinkConnector {
     //TODO: Add things you need to do to setup your connector.
 
     /**
-     * This will be executed once per connector. This can be used to handle connector level setup.
+     * This will be jjehfjhfuted once per connector. This can be used to handle connector level setup.
      */
 
   }
